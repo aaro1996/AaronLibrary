@@ -1,0 +1,5 @@
+*.sublime*
+aaron_test
+test
+*.o
+*.a
